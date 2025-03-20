@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="">
+
+    <item
+        android:id="@+id/A"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="add"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/E"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Entry"
+        app:showAsAction="ifRoom|withText" />
+</menu>

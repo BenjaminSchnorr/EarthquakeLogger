@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">final_project_435</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header2">Earthquakes From The Past 2 Days</string>
+    <string name="submit">Submit</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="header1">Record Earthquake</string>
+</resources>
